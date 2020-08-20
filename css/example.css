@@ -39,11 +39,11 @@
             font-size: 2.5rem;
             margin: 10rem 0 2rem;
             margin: auto;
-            color: darkred;
+            color: firebrick;
             //font-weight:500;
             position: relative;
             //z-index: 1;
-            margin-top: 180px;
+            margin-top: 0px;
         }
 
 
